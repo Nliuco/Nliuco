@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hi 👋 I'm Nliuco  
+Backend Engineer | Java / Spring Boot | Flutter
+
 <!--
 **Nliuco/Nliuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
